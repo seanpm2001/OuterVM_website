@@ -1,0 +1,1 @@
+🪐️🖱️🌐️ The official source repository for the website of the OuterVM project, a collection of emergency hardare/software tools that activate once your main pointer is trapped inside a window or virtual machine. 
